@@ -2,8 +2,10 @@
 .DS_Store
 vendor
 
-terraform-provider-hashicups
+# testing binary
+terraform-provider-xkcdpass
 bin
+dist
 
 # Local .terraform directories
 **/.terraform/*
@@ -12,8 +14,6 @@ bin
 *.tfstate
 *.tfstate.*
 
-# testing binary
-terraform-provider-xkcdpass
 
 # Crash log files
 crash.log
