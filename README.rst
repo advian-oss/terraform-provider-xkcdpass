@@ -28,3 +28,8 @@ Remember to set your overriders in `.terraformrc`, see https://developer.hashico
     pre-commit run --all-files
 
 - Ready to go.
+
+Releasing
+---------
+
+See https://developer.hashicorp.com/terraform/registry/providers/publishing#using-goreleaser-locally'
